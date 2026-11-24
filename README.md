@@ -1,9 +1,11 @@
-﻿﻿﻿# WPS Office 一键优化脚本
+﻿﻿# WPS Office 一键优化脚本
 
 > 适用：Windows 10/11 + WPS Office 中国个人版（12.x 实测：12.1.0.29690，安装于自定义目录同样可用）
 > 实测环境：Windows 11，WPS Office 12.1.0.29690（个人版 / 冬季更新）
 >
 > **只需要一个文件：`WPS一键优化.bat`**。双击运行 → 中文菜单选 1/2/3/0；优化、检测、恢复三合一，全部逻辑内嵌在这一个 bat 里（用记事本打开可看到并修改里面的 PowerShell 代码）。
+
+> 📦 **打包下载（zip）**：[Releases · v2.2](https://github.com/liyiliuxingyu/wps-oneclick-optimizer/releases/tag/v2.2)（`WPS-Optimize.zip`）。
 
 ---
 
