@@ -1,4 +1,4 @@
-﻿﻿# WPS Office 一键优化脚本
+# WPS Office 一键优化脚本
 
 > 适用：Windows 10/11 + WPS Office 中国个人版（12.x 实测：12.1.0.29690，安装于自定义目录同样可用）
 > 实测环境：Windows 11，WPS Office 12.1.0.29690（个人版 / 冬季更新）
